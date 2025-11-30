@@ -1,35 +1,77 @@
-# **Tanmay**
-### *Curious Student · Thinker · Anime Lover · Psychology Enthusiast*
+# **TANMAY — Character Profile**
+### *“The mind wanders, the logic sharpens, the curiosity never sleeps.”*
 
 ---
 
-## 🧭 About Me
-I'm Tanmay — a curious mind wandering through engineering, philosophy, human psychology, and the occasional anime binge that becomes way too philosophical at 2 AM.
-
-Here’s what drives me:
-- Deep thinking  
-- Logical analysis  
-- Eastern philosophy (Vedanta)  
-- Anime like *Monster*, *Jujutsu Kaisen*, *Demon Slayer*  
-- Understanding how the mind works  
+## **📛 Basic Info**
+**Name:** Tanmay  
+**Role:** Curious Student  
+**Alignment:** Chaotic-Logical  
+**Specialization:** Philosophy, Psychology, Engineering, Overthinking at 3 AM  
 
 ---
 
-## 🚀 Projects
-Below are a few things I’m working on (or pretending to work on while contemplating existence):
-
-- **Project 1** – Coming soon  
-- **Project 2** – Coming soon  
-- **Project 3** – Coming soon  
+## **📜 Lore**
+Born with questions instead of answers, Tanmay moves through the world like a wandering philosopher—  
+half engineer, half psychologist, full-time anime-fuelled logician.  
+His journey is driven by a thirst for truth, meaning, and the occasional plot twist.
 
 ---
 
-## ✉️ Contact
-Want to connect or collaborate?
+## **⚔️ Abilities**
+**🧠 Deep Thinker**  
+Analyses everything from people to problems to why Wi-Fi dies exactly when needed most.
 
-📧 **your-email@example.com**
+**🎓 Academic Adaptability**  
+Can switch from anime to engineering notes in 0.8 seconds (if mood cooperates).
+
+**🔮 Psychological Insight**  
+Understands humans so well that teachers think he’s “quiet,”  
+friends think he’s “wise,”  
+and he thinks… *“they all need therapy.”*
+
+**🔥 Anime Stamina**  
+Has survived:  
+- *Monster (2004)*  
+- *Jujutsu Kaisen*  
+- *Demon Slayer*  
+- …and every episode of *Battle Through the Heavens*
 
 ---
 
-## 🖤 Footer
-© **2025 Tanmay** — Crafted with curiosuity, chaos, and lots of late-night overthinking.
+## **📘 Stats**
+
+| Attribute | Level | Notes |
+|----------|-------|-------|
+| Curiosity | 99 | Cannot be nerfed |
+| Logic | 95 | Buffed by INTP mode |
+| Mood Swings | 83 | Depends on sleep cycle |
+| Humor | 88 | Dark mode enabled |
+| Discipline | 70 | Work in progress 😂 |
+
+---
+
+## **🧭 Current Quests**
+- Master human psychology  
+- Dive deeper into Vedanta  
+- Build projects worth bragging about  
+- Quit doom scrolling + dopamine traps  
+- Become philosopher-level communicator  
+
+---
+
+## **🛠 Projects (WIP)**
+- **Project Alpha** — cooking  
+- **Project Beta** — brewing  
+- **Project Gamma** — forming shadows  
+
+---
+
+## **📨 Contact**
+If you wish to collaborate, summon Tanmay via:  
+**your-email@example.com**
+
+---
+
+## **🖤 Footer**
+© 2025 TANMAY — *Wandering mind. Steady ambition. Anime in the bloodstream.*
