@@ -1,94 +1,112 @@
-/* Dark Mode Theme */
-body {
-  background-color: #0d0d0d;
-  color: #e6e6e6;
-}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Tanmay | Homepage</title>
 
-a {
-  color: #4dabff;
-}
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            font-family: "Segoe UI", sans-serif;
+            background: #0d0d0d;
+            color: #e6e6e6;
+        }
 
-header, footer, .post, .page {
-  background: #111;
-  border: 1px solid #333;
-  padding: 20px;
-  border-radius: 8px;
-}
+        header {
+            padding: 40px;
+            text-align: center;
+            background: #111;
+            border-bottom: 1px solid #333;
+        }
 
-# **TANMAY — Character Profile**
-### *“The mind wanders, the logic sharpens, the curiosity never sleeps.”*
+        h1 {
+            font-size: 3rem;
+            margin: 0;
+        }
 
----
+        p.subtitle {
+            color: #bbbbbb;
+            margin-top: 10px;
+            font-size: 1.1rem;
+        }
 
-## **📛 Basic Info**
-**Name:** Tanmay  
-**Role:** Curious Student  
-**Alignment:** Chaotic-Logical  
-**Specialization:** Philosophy, Psychology, Engineering, Overthinking at 3 AM  
+        .container {
+            max-width: 800px;
+            margin: 50px auto;
+            padding: 0 20px;
+            line-height: 1.7;
+        }
 
----
+        a {
+            color: #33aaff;
+            text-decoration: none;
+        }
 
-## **📜 Lore**
-Born with questions instead of answers, Tanmay moves through the world like a wandering philosopher—  
-half engineer, half psychologist, full-time anime-fuelled logician.  
-His journey is driven by a thirst for truth, meaning, and the occasional plot twist.
+        a:hover {
+            text-decoration: underline;
+        }
 
----
+        .card {
+            background: #1a1a1a;
+            padding: 20px;
+            margin-top: 30px;
+            border-radius: 10px;
+            border: 1px solid #333;
+        }
 
-## **⚔️ Abilities**
-**🧠 Deep Thinker**  
-Analyses everything from people to problems to why Wi-Fi dies exactly when needed most.
+        footer {
+            text-align: center;
+            padding: 30px;
+            margin-top: 40px;
+            color: #777;
+            font-size: 0.9rem;
+        }
+    </style>
+</head>
 
-**🎓 Academic Adaptability**  
-Can switch from anime to engineering notes in 0.8 seconds (if mood cooperates).
+<body>
 
-**🔮 Psychological Insight**  
-Understands humans so well that teachers think he’s “quiet,”  
-friends think he’s “wise,”  
-and he thinks… *“they all need therapy.”*
+    <header>
+        <h1>Tanmay</h1>
+        <p class="subtitle">Curious Student | Thinker | Anime Lover | Psychology Enthusiast</p>
+    </header>
 
-**🔥 Anime Stamina**  
-Has survived:  
-- *Monster (2004)*  
-- *Jujutsu Kaisen*  
-- *Demon Slayer*  
-- …and every episode of *Battle Through the Heavens*
+    <div class="container">
 
----
+        <div class="card">
+            <h2>About Me</h2>
+            <p>
+                I'm Tanmay — a curious soul who loves philosophy, human psychology,
+                deep thinking, anime, and the art of figuring life out.
+                Currently exploring engineering, code, and the inner workings of the human mind.
+            </p>
+        </div>
 
-## **📘 Stats**
+        <div class="card">
+            <h2>Projects</h2>
+            <p>Some work I'm proud of:</p>
+            <ul>
+                <li><a href="#">Project 1 – Coming Soon</a></li>
+                <li><a href="#">Project 2 – Coming Soon</a></li>
+                <li><a href="#">Project 3 – Coming Soon</a></li>
+            </ul>
+        </div>
 
-| Attribute | Level | Notes |
-|----------|-------|-------|
-| Curiosity | 99 | Cannot be nerfed |
-| Logic | 95 | Buffed by INTP mode |
-| Mood Swings | 83 | Depends on sleep cycle |
-| Humor | 88 | Dark mode enabled |
-| Discipline | 70 | Work in progress 😂 |
+        <div class="card">
+            <h2>Contact</h2>
+            <p>
+                Want to connect? You can reach me here:<br>
+                <a href="mailto:your-email@example.com">your-email@example.com</a>
+            </p>
+        </div>
 
----
+    </div>
 
-## **🧭 Current Quests**
-- Master human psychology  
-- Dive deeper into Vedanta  
-- Build projects worth bragging about  
-- Quit doom scrolling + dopamine traps  
-- Become philosopher-level communicator  
+    <footer>
+        © 2025 Tanmay — Crafted with curiosity.
+    </footer>
 
----
-
-## **🛠 Projects (WIP)**
-- **Project Alpha** — cooking  
-- **Project Beta** — brewing  
-- **Project Gamma** — forming shadows  
-
----
-
-## **📨 Contact**
-If you wish to collaborate, summon Tanmay via:  
-**your-email@example.com**
-
----
-
-## **🖤 Footer**
-© 2025 TANMAY — *Wandering mind. Steady ambition. Anime in the bloodstream.*
+</body>
+</html>
