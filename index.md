@@ -1,3 +1,20 @@
+/* Dark Mode Theme */
+body {
+  background-color: #0d0d0d;
+  color: #e6e6e6;
+}
+
+a {
+  color: #4dabff;
+}
+
+header, footer, .post, .page {
+  background: #111;
+  border: 1px solid #333;
+  padding: 20px;
+  border-radius: 8px;
+}
+
 # **TANMAY — Character Profile**
 ### *“The mind wanders, the logic sharpens, the curiosity never sleeps.”*
 
