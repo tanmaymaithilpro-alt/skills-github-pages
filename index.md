@@ -32,4 +32,4 @@ Want to connect or collaborate?
 ---
 
 ## 🖤 Footer
-© **2025 Tanmay** — Crafted with curiosity, chaos, and lots of late-night overthinking.
+© **2025 Tanmay** — Crafted with curiosuity, chaos, and lots of late-night overthinking.
